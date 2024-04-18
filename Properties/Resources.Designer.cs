@@ -63,9 +63,9 @@ namespace wf_hw_four.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _4752291 {
+        internal static System.Drawing.Bitmap photo {
             get {
-                object obj = ResourceManager.GetObject("4752291", resourceCulture);
+                object obj = ResourceManager.GetObject("photo", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
